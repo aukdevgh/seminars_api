@@ -1,0 +1,16 @@
+{
+  "name": "seminars_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "type": "module",
+  "scripts": {
+    "server": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.0"
+  }
+}
